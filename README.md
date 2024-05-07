@@ -1,6 +1,6 @@
 # RubikCapstone
 
-Note: The file directory seemingly got doubled because I was working on my Desktop and laptop and improperly synced the two. The Rubik folder that is nested in Rubik2 is the proper folder for running the final version of the code.
+Note: The file directory is not perfect as it was merged incorectly between by desktop and laptop. Nevertheless the main files for this project are present in the Rubik/RubikV1/Rubik/Workplace/ directory. 
 
 Welcome to the Rubik's Cube AI Solver! This project explores the use of Artificial Intelligence (AI) to solve a Rubik's Cube in a more intuitive way, focusing on reinforcement learning and 3D graphics. 
 
